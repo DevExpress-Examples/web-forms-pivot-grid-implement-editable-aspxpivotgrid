@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Default.aspx](./CS/Q240884/Default.aspx) (VB: [Default.aspx.vb](./VB/Q240884/Default.aspx.vb))
+* [Default.aspx.cs](./CS/Q240884/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Q240884/Default.aspx.vb))
+<!-- default file list end -->
 # How to implement an editable ASPxPivotGrid
 
 
