@@ -19,7 +19,7 @@ namespace Q240884 {
                 dt = (DataTable)Session["PivotData"];
             }
             else {
-                dt = ((DataView)AccessDataSource1.Select(DataSourceSelectArguments.Empty)).Table;
+                dt = ((DataView)SqlDataSource1.Select(DataSourceSelectArguments.Empty)).Table;
                 Session["PivotData"] = dt;
             }
             return dt;

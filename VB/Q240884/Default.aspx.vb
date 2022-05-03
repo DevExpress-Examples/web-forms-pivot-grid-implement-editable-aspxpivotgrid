@@ -20,7 +20,7 @@ Namespace Q240884
 			If Session("PivotData") IsNot Nothing Then
 				dt = DirectCast(Session("PivotData"), DataTable)
 			Else
-				dt = DirectCast(AccessDataSource1.Select(DataSourceSelectArguments.Empty), DataView).Table
+				dt = DirectCast(SqlDataSource1.Select(DataSourceSelectArguments.Empty), DataView).Table
 				Session("PivotData") = dt
 			End If
 			Return dt

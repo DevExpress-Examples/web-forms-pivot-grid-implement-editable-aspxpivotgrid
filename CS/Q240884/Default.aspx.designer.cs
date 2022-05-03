@@ -8,10 +8,10 @@
 //------------------------------------------------------------------------------
 
 namespace Q240884 {
-    
-    
+
+
     public partial class _Default {
-        
+
         /// <summary>
         /// form1 control.
         /// </summary>
@@ -20,16 +20,7 @@ namespace Q240884 {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.HtmlControls.HtmlForm form1;
-        
-        /// <summary>
-        /// AccessDataSource1 control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.AccessDataSource AccessDataSource1;
-        
+
         /// <summary>
         /// ASPxPivotGrid1 control.
         /// </summary>
@@ -38,59 +29,68 @@ namespace Q240884 {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::DevExpress.Web.ASPxPivotGrid.ASPxPivotGrid ASPxPivotGrid1;
-        
+
         /// <summary>
-        /// fieldCategoryID control.
+        /// field2 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxPivotGrid.PivotGridField fieldCategoryID;
-        
+        protected global::DevExpress.Web.ASPxPivotGrid.PivotGridField field2;
+
         /// <summary>
-        /// fieldCategoryName control.
+        /// field1 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxPivotGrid.PivotGridField fieldCategoryName;
-        
+        protected global::DevExpress.Web.ASPxPivotGrid.PivotGridField field1;
+
         /// <summary>
-        /// fieldProductID control.
+        /// field3 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxPivotGrid.PivotGridField fieldProductID;
-        
+        protected global::DevExpress.Web.ASPxPivotGrid.PivotGridField field3;
+
         /// <summary>
-        /// fieldProductName control.
+        /// field4 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxPivotGrid.PivotGridField fieldProductName;
-        
+        protected global::DevExpress.Web.ASPxPivotGrid.PivotGridField field4;
+
         /// <summary>
-        /// fieldUnitPrice control.
+        /// fieldUnitPrice1 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxPivotGrid.PivotGridField fieldUnitPrice;
-        
+        protected global::DevExpress.Web.ASPxPivotGrid.PivotGridField fieldUnitPrice1;
+
         /// <summary>
-        /// fieldCompanyName control.
+        /// field control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxPivotGrid.PivotGridField fieldCompanyName;
+        protected global::DevExpress.Web.ASPxPivotGrid.PivotGridField field;
+
+        /// <summary>
+        /// SqlDataSource1 control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.SqlDataSource SqlDataSource1;
     }
 }
