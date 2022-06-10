@@ -2,10 +2,11 @@
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/E1949)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
-# Pivot Grid for Web Forms - How to implement an editable ASPxPivotGrid
+# Pivot Grid for Web Forms - How to Implement an Editable ASPxPivotGrid
 
 This example demonstrates how to allow end-users to modify data cell values within the [ASPxPivotGrid](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxPivotGrid.ASPxPivotGrid).
 
+![Pivot Grid for Web Forms - Editable Pivot Grid](images/pivot-grid-web-forms-editable.png)
 ## Files to Look At
 
 - [Default.aspx](./CS/Q240884/Default.aspx) (VB: [Default.aspx](./VB/Q240884/Default.aspx))
