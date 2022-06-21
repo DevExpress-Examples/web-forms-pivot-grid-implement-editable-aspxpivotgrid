@@ -4,7 +4,7 @@
 <!-- default badges end -->
 # Pivot Grid for Web Forms - How to Implement an Editable ASPxPivotGrid
 
-This example demonstrates how to allow end-users to modify data cell values within the [ASPxPivotGrid](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxPivotGrid.ASPxPivotGrid).
+This example demonstrates how to allow end users to modify data cell values within the [ASPxPivotGrid](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxPivotGrid.ASPxPivotGrid).
 
 ![Pivot Grid for Web Forms - Editable Pivot Grid](images/pivot-grid-web-forms-editable.png)
 ## Files to Look At
