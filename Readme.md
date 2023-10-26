@@ -12,7 +12,7 @@
 <!-- default file list end -->
 # How to implement an editable ASPxPivotGrid
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e1949/)**
+**[[Run Online]](https://codecentral.devexpress.com/128577606/)**
 <!-- run online end -->
 
 
