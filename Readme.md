@@ -11,7 +11,7 @@
 This example demonstrates how to allow end users to modify data cell values within the [ASPxPivotGrid](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxPivotGrid.ASPxPivotGrid).
 
 ![Pivot Grid for Web Forms - Editable Pivot Grid](images/pivot-grid-web-forms-editable.png)
-## Files to Look At
+## Files to Review
 
 - [Default.aspx](./CS/Q240884/Default.aspx) (VB: [Default.aspx](./VB/Q240884/Default.aspx))
 - [Default.aspx.cs](./CS/Q240884/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Q240884/Default.aspx.vb))
