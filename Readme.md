@@ -11,9 +11,6 @@
 * **[pivot-cell-editor.js](./CS/Q240884/js/pivot-cell-editor.js) (VB: [pivot-cell-editor.js](./VB/Q240884/js/pivot-cell-editor.js))**
 <!-- default file list end -->
 # How to implement an editable ASPxPivotGrid
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/128577606/)**
-<!-- run online end -->
 
 
 <p>This example demonstrates how to allow end-users to modify data cell values within the ASPxPivotGrid.</p>
