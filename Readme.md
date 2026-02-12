@@ -15,7 +15,7 @@ This example demonstrates how to allow end users to modify data cell values with
 - [Default.aspx.cs](./CS/Q240884/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Q240884/Default.aspx.vb))
 - [pivot-cell-editor.js](./CS/Q240884/js/pivot-cell-editor.js) (VB: [pivot-cell-editor.js](./VB/Q240884/js/pivot-cell-editor.js))
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=web-forms-pivot-grid-implement-editable-aspxpivotgrid&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=web-forms-pivot-grid-implement-editable-aspxpivotgrid&~~~was_helpful=no)
 
